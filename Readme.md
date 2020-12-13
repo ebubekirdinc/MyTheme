@@ -119,6 +119,6 @@ Find more about adding global styles/scripts and other fundamentals about ABP th
 
 For Bundling & Minification check [this](https://docs.abp.io/en/abp/latest/UI/AspNetCore/Bundling-Minification) document.
 
-Get the source code on [GitHub](https://docs.abp.io/en/abp/latest/UI/AspNetCore/Bundling-Minification). 
+Get the source code on [GitHub](https://github.com/ebubekirdinc/MyTheme/blob/master/Readme.md). 
 
 Enjoy and have fun!
