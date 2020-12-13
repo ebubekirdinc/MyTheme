@@ -2,7 +2,7 @@
 
 In this article, we will create a new UI theme by copying the Basic Theme and make some changes to it.
 
-###In brief, the steps are: 
+## In brief, the steps are: 
  * Create a new solution
  * Copy the `.Theme.Basic` project into the solution from the Githup repo
  * Remove the Basic Theme nuget package in the `.Web` project
@@ -119,6 +119,6 @@ Find more about adding global styles/scripts and other fundamentals about ABP th
 
 For Bundling & Minification check [this](https://docs.abp.io/en/abp/latest/UI/AspNetCore/Bundling-Minification) document.
 
-Get the source code on [GitHub](https://github.com/ebubekirdinc/MyTheme/blob/master/Readme.md). 
+Get the source code on [GitHub](https://github.com/ebubekirdinc/MyTheme). 
 
 Enjoy and have fun!
