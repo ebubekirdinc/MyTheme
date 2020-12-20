@@ -4,7 +4,7 @@ In this article, we will create a new UI theme by copying the Basic Theme and ma
 
 ## In brief, the steps are: 
  * Create a new solution
- * Copy the `.Theme.Basic` project into the solution from the Githup repo
+ * Copy the `.Theme.Basic` project into the solution from the Github repo
  * Remove the Basic Theme nuget package in the `.Web` project
  * Build `.Theme.Basic` project and fix errors
  * Reference the newly added local `.Theme.Basic` project in the `.Web` project
@@ -40,7 +40,7 @@ Now right-click to the `.Web` project and select **Set as StartUp Project**
 When you run the application, the index page will show up in your browser as seen below.
 
  ![firstRun](images/firstRun.png)
- ##  Copy the `.Theme.Basic` project into the solution from the Githup repo
+ ##  Copy the `.Theme.Basic` project into the solution from the GitHub repo
  To create a new theme, copy the [Basic Theme Source Code](https://github.com/abpframework/abp/tree/dev/framework/src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic) into your `src` folder. 
   
   Once you get a copy of the theme in your solution, right-click on the `src` folder and select Add > Existing Project.
